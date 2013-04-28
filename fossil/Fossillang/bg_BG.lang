@@ -1,0 +1,222 @@
+﻿##########Names of the Tabs
+Tab.Armor.Name=Антична броня
+Tab.Blocks.Name=Антични кубчета
+Tab.Combat.Name=Антични оръжия
+Tab.Food.Name=Антични храни
+Tab.Items.Name=Антични предмети
+Tab.Material.Name=Антични материали
+Tab.Tools.Name=Антични инструменти
+##########Names of all new Blocks
+Block.Fossil.Name=Фосил
+Block.Skull.Name=Череп
+Block.SkullLantern.Name=Череп-фенер
+Block.Analyzer.Name=Анализатор
+Block.CultureVat.Name=Фреонна камера
+Block.Workbench.Name=Археологическа работна маса
+Block.Drum.Name=Команден тъпан
+Block.Feeder.Name=Машина за хранене
+Block.Permafrost.Name=Заледена земя
+Block.IcedStone.Name=Заледен камък
+Block.TimeMachine.Name=Машина на времето
+Block.Tar.Name=Катран
+Block.PalLog.Name=Дънер на палаеорафе
+Block.PalLeaves.Name=Листа на палаеорафе
+Block.PalSap.Name=Фиданка на палаеорафе
+Block.PalPlank.Name=Дъски на палаеорафе
+##########Names of all new Items
+Item.BioFossil.Name=Биологически фосил
+Item.Relic.Name=Артифакти
+Item.Tablet.Name=Каменна плоча
+Item.BrokenSword.Name=Счупена антична сабя
+Item.AncientSword.Name=Антична сабя
+Item.FernSeeds.Name=Папратови спори
+Item.BrokenHelmet.Name=Счупен античен шлем
+Item.AncientHelmet.Name=Античен шлем
+Item.SkullStick.Name=Череп на пръчка
+Item.Gem.Name=Камъка на скарабея
+Item.ScarabAxe.Name=Брадвата на скарабея
+Item.ScarabPickAxe.Name=Кирката на скарабея
+Item.ScarabSword.Name=Меча на скарабея
+Item.ScarabHoe.Name=Мотиката на скарабея
+Item.ScarabShovel.Name=Лопатката на скарабея
+Item.DinoPedia.Name=Динозавърска енциклопедиа
+Item.Tooth.Name=Зъбът на Т-рекса
+Item.Dagger.Name=Кинжал от зъби
+Item.RawChickenSoup.Name=Сурова пилешка супа
+Item.CookedChickenSoup.Name=Пилешка супа
+Item.EOC.Name=Пилешки аромат
+Item.Shell.Name=Празна черупка
+Item.SJL.Name=Сио-чуи-ле
+Item.IcedMeat.Name=Замразено месо
+Item.WoodJavelin.Name=Дървено копие
+Item.StoneJavelin.Name=Каменно копие
+Item.IronJavelin.Name=Желязно копие
+Item.GoldJavelin.Name=Златно копие
+Item.DiamondJavelin.Name=Диамантено копие
+Item.AncientJavelin.Name=Антично копие
+Item.Whip.Name=Камшик
+Item.MagicConch.Name=Вълшебен рапан
+Item.LegBone.Name=Кост от крак
+Item.Claw.Name=Нокът
+Item.Foot.Name=Стъпало
+Item.Skull.Name=Череп
+Item.BrokenSapling.Name=Фосил на растение
+Item.SkullHelmet.Name=Шлем от череп
+Item.RibCage.Name=Гръден кош
+Item.Femurs.Name=Наколенки
+Item.Feet.Name=Крака
+##########Dino Meat Names
+Item.DinoSteak.Name=Динозавърска пържола
+Item.rawTriceratops.Name=Месо на трицератопс
+Item.rawVelociraptor.Name=Месо на велосираптор
+Item.rawTRex.Name=Месо на Т-рекс
+Item.rawPterosaur.Name=Месо на птерозавър
+Item.rawNautilus.Name=Месо на наутилус
+Item.rawPlesiosaur.Name=Месо на плесиозавър
+Item.rawMosasaurus.Name=Месо на мозазавър
+Item.rawStegosaurus.Name=Месо на стегозавър
+Item.rawDilophosaurus.Name=Месо на дилофозавър
+Item.rawBrachiosaurus.Name=Месо на брахиозавър
+##########Dino Egg Names
+Item.eggTriceratops.Name=Яйце на трицератопс
+Item.eggVelociraptor.Name=Яйце на велосираптор
+Item.eggTRex.Name=Яйце на Т-рекс
+Item.eggPterosaur.Name=Яйце на птерозавър
+Item.shellNautilus.Name=Черупка на наутилус
+Item.eggPlesiosaur.Name=Яйце на плезиозавър
+Item.eggMosasaurus.Name=Яйце на мозазавър
+Item.eggStegosaurus.Name=Яйце на стегозавър
+Item.eggDilophosaurus.Name=Яйце на дилофозавър
+Item.eggBrachiosaurus.Name=Яйце на брахиозавър
+##########Dino DNA Names
+Item.dnaTriceratops.Name=ДНК на трицератопс
+Item.dnaVelociraptor.Name=ДНК на велосираптор
+Item.dnaTRex.Name=ДНК на Т-рекс 
+Item.dnaPterosaur.Name=ДНК на птерозавър
+Item.dnaNautilus.Name=ДНК на наутилус
+Item.dnaPlesiosaur.Name=ДНК на плесиозавър
+Item.dnaMosasaurus.Name=ДНК на мозазавър
+Item.dnaStegosaurus.Name=ДНК на стегозавър
+Item.dnaDilophosaurus.Name=ДНК на дилофозавър
+Item.dnaBrachiosaurus.Name=ДНК на брахиозавър
+##########Other DNA
+Item.dnaPig.Name=ДНК на прасе
+Item.dnaSheep.Name=ДНК на овца
+Item.dnaCow.Name=ДНК на крава
+Item.dnaChicken.Name=ДНК на кокошка
+Item.dnaSaberCat.Name=ДНК на съблезъба котка
+Item.dnaMammoth.Name=ДНК на мамут
+##########Other Embryo
+Item.embryoPig.Name=Ембрион на прасе
+Item.embryoSheep.Name=Ембрион на овца
+Item.embryoCow.Name=Ембрион на крава
+Item.embryoChicken.Name=Ембрион на кокошка
+Item.embryoSaberCat.Name=Ембрион на съблезъба котка
+Item.embryoMammoth=Ембрион на мамут
+#
+DNAName.Head=ДНК на 
+DNAName.Tail=
+#
+EmbyoName.Head=Ембрион на
+EmbyoName.Tail=
+#
+MeatName.Head=Месо от 
+MeatName.Tail=
+#
+MGCName.Head=Магическа раковина:
+MGCName.Tail=
+#
+DEggName.Head=Яйце от
+DEggName.Tail=
+#
+Achieve.PigBossOnEarth.Name=Наруши правилото!!
+Achieve.PigBossOnEarth.Desc=Призовавайки Ану на земята.
+##########Order.Head Order.x
+Order.Head=Заповед:
+Order.Stay=Стой
+Order.Follow=Преследвай
+Order.FreeMove=Движи се свободно
+##########Status.x.Head DinoName Status.x
+Status.Hungry.Head=Този
+Status.Hungry=е гладен.
+Status.Starve.Head=Един
+Status.Starve=умря от глад.
+Status.LearningChest=се научи как да отваря сандъци.
+Status.Betrayed=няма да вярва на човечеството повече.
+Status.NoSpace=няма място да расте.
+Status.StarveEsc=Избяга от глад.
+Status.SJLBite=отхапа Сио-чуи-ле и избяга.
+Status.ChewTime= му трябва време да сдъвчи.
+Status.Full=нахранен е.
+Status.Nervous.Head=Направи малкото
+Status.Nervous=тжърде нервен да живее.
+Status.GemErrorYoung=Т-рекса е твърде млад.
+Status.GemErrorHealth=Този камък на скарабея не може да си позволи такава жизнена енергия.
+########## Name of the dino, only 11 digits
+Dino.Triceratops=Трисератопс
+Dino.Raptor=Велосираптор
+Dino.TRex=Т-рекс
+Dino.Pterosaur=Птерозавър
+Dino.Plesiosaur=Плесиозавър
+Dino.Mosasaurus=Мозазавър
+Dino.Stegosaurus=Стегозавър
+Dino.Utahraptor=Дилофозавър
+Dino.Brachiosaurus=Брахиозавър
+Dino.Nautilus=Наутилус
+#
+AnimalType.SaberCat=Съблезъба котка
+AnimalType.Mammoth=Мамут
+########## Only 11 Digits
+PediaText.Owner=Притежател:
+PediaText.Chest=* Сандъци
+PediaText.Caution=!!!Опасен!!!
+PediaText.Rideable=* Може да се язде
+PediaText.Weak=Почти мъртъв
+PediaText.Fly=* Може да лети
+#
+PediaText.egg.Head=Яйце от 
+PediaText.egg.wet=Мокро
+PediaText.egg.dry=Сухо
+PediaText.egg.warm=Топло
+PediaText.egg.cold=Студено
+PediaText.egg.Status=Състояние:
+PediaText.egg.Progress=Излюпване:
+PediaText.vivi.inside=Ембрион вътре:
+PediaText.vivi.growing=Прогрес на растежа:
+PediaText.Day=Ден
+PediaText.Days=Дни
+#
+AnuSpeaker.self=Ану:
+AnuSpeaker.Hello=Knees down,Resistance is futile.
+AnuSpeaker.BareHand=Bare hands...Brave
+AnuSpeaker.Draw=DRAW YOUR SWORD,Kid.
+AnuSpeaker.Coward=Bow-using coward!Stop hiding!
+AnuSpeaker.LeartHere=Look what I learnt from here!
+AnuSpeaker.LeartThere=Look what I learnt from there!
+AnuSpeaker.UnknownRanged=So is that your weapon
+AnuSpeaker.UnknownMelee=Ha!Stop Playing!
+AnuSpeaker.summon=Work for me,my servants.
+AnuSpeaker.Trans=Brutes,wake up your wisdom.
+AnuSpeaker.Qi=Qi-shock!
+AnuSpeaker.FireRain=Хайде да вали огън!
+#
+FPZSpeaker.self=Зомби прасета:
+FPZSpeaker.SelfKill=Не можем да живеем без водач!
+FPZSpeaker.LifeFor.head=Живота ми за 
+FPZSpeaker.LifeFor.tail=!!
+FPZSpeaker.AnuSommon=Всички се поклонете на Ану!!
+########## Dinoegg.Head Dinoname(automatically) Dinoegg.x
+Dinoegg.Head=Яйце на 
+Dinoegg.dry= изсъхна.
+Dinoegg.cold= замръзна.
+########## Dinoegg.x
+Dinoegg.Hatched=Яйце се излюпи!
+Dinoegg.NoSpace=Яйцето не може да се излюпи тук.
+#
+Cultivate.OutBreak=Опасност! Процеса на съживяване беше неуспешен!
+#
+Drum.Trigger=Drum Order:
+Drum.Ordering=Заповядвам 
+Drum.TRex1=Нареждане на всички Т-рексове да дойдат за закуска.
+Drum.TRex2=Нареждане на всички Т-рексове да дойдат за обяд.
+Drum.TRex3=Нареждане на всички Т-рексове да дойдат за вечеря.

@@ -1,0 +1,233 @@
+##########Names of the Tabs
+Tab.Armor.Name=Alte Rüstungen
+Tab.Blocks.Name=Fossile Blöcke
+Tab.Combat.Name=Alte Waffen
+Tab.Food.Name=Alte Nahrungsmittel
+Tab.Items.Name=Alte Gegenstände
+Tab.Material.Name=Alte Materialien
+Tab.Tools.Name=Alte Werkzeuge
+##########Names of all new Blocks
+Block.Fossil.Name=Fossil
+Block.Skull.Name=Schädel
+Block.SkullLantern.Name=Schädellaterne
+Block.Analyzer.Name=Analysator
+Block.CultureVat.Name=Zuchttank
+Block.Workbench.Name=Archäologen Werkbank
+Block.Drum.Name=Kommandotrommel
+Block.Feeder.Name=Futterapparat
+Block.Permafrost.Name=Permafrost
+Block.IcedStone.Name=Gefrorener Stein
+Block.TimeMachine.Name=Zeitmaschine
+Block.Tar.Name=Teer
+Block.PalLog.Name=Palaeoraphe-Holz
+Block.PalLeaves.Name=Palaeoraphe-Blätter
+Block.PalSap.Name=Palaeoraphe-Setzling
+Block.PalPlank.Name=Palaeoraphe-Bretter
+##########Names of all new Items
+Item.BioFossil.Name=Biofossil
+Item.Relic.Name=Reliktrest
+Item.Tablet.Name=Steintafel
+Item.BrokenSword.Name=Antikes zerbrochenes Schwert
+Item.AncientSword.Name=Antikes Schwert
+Item.FernSeeds.Name=Farnsamen
+Item.BrokenHelmet.Name=Antiker zerbrochener Helm
+Item.AncientHelmet.Name=Antiker Helm
+Item.SkullStick.Name=Schädelstab
+Item.Gem.Name=Skarabäus
+Item.ScarabAxe.Name=Skarabäusaxt
+Item.ScarabPickAxe.Name=Skarabäusspitzhacke
+Item.ScarabSword.Name=Skarabäusschwert
+Item.ScarabHoe.Name=Skarabäushacke
+Item.ScarabShovel.Name=Skarabäusschaufel
+Item.DinoPedia.Name=Dinopedia
+Item.Tooth.Name=Tyrannosauruszahn
+Item.Dagger.Name=Zahndolch
+Item.RawChickenSoup.Name=Rohe Hühnersuppe
+Item.CookedChickenSoup.Name=Gekochte Hühnersuppe
+Item.EOC.Name=Essenz eines Huhns
+Item.Shell.Name=Leere Nautilusschale
+Item.SJL.Name=Schneckensnack
+Item.DinoSteak.Name=Dino Steak
+Item.IcedMeat.Name=Gefrorenes Fleisch
+Item.WoodJavelin.Name=Holzspeer
+Item.StoneJavelin.Name=Steinspeer
+Item.IronJavelin.Name=Eisenspeer
+Item.GoldJavelin.Name=Goldspeer
+Item.DiamondJavelin.Name=Diamantspeer
+Item.AncientJavelin.Name=Uralter Speer
+Item.Whip.Name=Peitsche
+Item.MagicConch.Name=Magische Muschel
+Item.LegBone.Name=Beinknochen
+Item.Claw.Name=Klaue
+Item.Foot.Name=Fuss
+Item.Skull.Name=Schädel
+Item.BrokenSapling.Name=Pflanzenfossil
+Item.SkullHelmet.Name=Schädelhelm
+Item.RibCage.Name=Brustkorb
+Item.Femurs.Name=Schienenbeinschützer
+Item.Feet.Name=Füsse
+##########Dino Meat Names
+Item.DinoSteak.Name=Dino Steak
+Item.rawTriceratops.Name=Triceratopsfleisch
+Item.rawVelociraptor.Name=Velociraptorfleisch
+Item.rawTRex.Name=TRexfleisch
+Item.rawPterosaur.Name=Pterosaurfleisch
+Item.rawNautilus.Name=Nautilusfleisch
+Item.rawPlesiosaur.Name=Plesiosaurfleisch
+Item.rawMosasaurus.Name=Mosasaurusfleisch
+Item.rawStegosaurus.Name=Stegosaurusfleisch
+Item.rawDilophosaurus.Name=Dilophosaurusfleisch
+Item.rawBrachiosaurus.Name=Brachiosaurusfleisch
+##########Dino Egg Names
+Item.eggTriceratops.Name=Triceratops-Ei
+Item.eggVelociraptor.Name=Velociraptor-Ei
+Item.eggTRex.Name=TRex-Ei
+Item.eggPterosaur.Name=Pterosaurus-Ei
+Item.shellNautilus.Name=Lebender Nautilus
+Item.eggPlesiosaur.Name=Plesiosaur-Ei
+Item.eggMosasaurus.Name=Mosasaurus-Ei
+Item.eggStegosaurus.Name=Stegosaurus-Ei
+Item.eggDilophosaurus.Name=Dilophosaurus-Ei
+Item.eggBrachiosaurus.Name=Brachiosaurus-Ei
+##########Dino DNA Names
+Item.dnaTriceratops.Name=Triceratops-DNA
+Item.dnaVelociraptor.Name=Velociraptor-DNA
+Item.dnaTRex.Name=TRex-DNA
+Item.dnaPterosaur.Name=Pterosaurus-DNA
+Item.dnaNautilus.Name=Nautilus-DNA
+Item.dnaPlesiosaur.Name=Plesiosaurus-DNA
+Item.dnaMosasaurus.Name=Mosasaurus-DNA
+Item.dnaStegosaurus.Name=Stegosaurus-DNA
+Item.dnaDilophosaurus.Name=Dilophosaurus-DNA
+Item.dnaBrachiosaurus.Name=Brachiosaurus-DNA
+##########Other DNA
+Item.dnaPig.Name=Schweine-DNA
+Item.dnaSheep.Name=Schafs-DNA
+Item.dnaCow.Name=Kuh-DNA
+Item.dnaChicken.Name=Huhn-DNA
+Item.dnaSaberCat.Name=Säbelzahntiger-DNA
+Item.dnaMammoth.Name=Mammut-DNA
+##########Other Embryo
+Item.embryoPig.Name=Schweineembryo
+Item.embryoSheep.Name=Schafsembryo
+Item.embryoCow.Name=Kuhembryo
+Item.embryoChicken.Name=Huhnembryo
+Item.embryoSaberCat.Name=Säbelzahntigerembryo
+Item.embryoMammoth.Name=Mammutembryo
+#
+DNAName.Head=DNA eines 
+DNAName.Tail=
+#
+EmbyoName.Head=Embryo eines 
+EmbyoName.Tail=
+#
+MeatName.Head=Fleisch von einem 
+MeatName.Tail=
+#
+MGCName.Head=Zaubermuschel:
+MGCName.Tail=
+#
+DEggName.Head=Ei von einem 
+DEggName.Tail=
+#
+Achieve.PigBossOnEarth.Name=Du hast die Regeln gebrochen!
+Achieve.PigBossOnEarth.Desc=Beschwöre Anu auf die Erde.
+##########Order.Head Order.x
+Order.Head=Befehl:
+Order.Stay=Bleiben
+Order.Follow=Folgen
+Order.FreeMove=Frei bewegen
+##########Status.x.Head DinoName Status.x
+Status.Hungry.Head=Dieser
+Status.Hungry=ist hungrig.
+Status.Starve.Head=Ein
+Status.Starve=ist verhungert.
+Status.LearningChest.Head=Ein
+Status.LearningChest= hat gelernt Truhen zu öffnen.
+Status.Betrayed.Head=Dieser
+Status.Betrayed=wird den Menschen nicht mehr trauen.
+Status.NoSpace.Head=Ein
+Status.NoSpace=hat nicht genug Platz zum wachsen.
+Status.StarveEsc=ist wegen Hunger geflüchtet.
+Status.SJLBite=hat den Schneckensnack gegessen und rannte davon.
+Status.ChewTime=braucht Zeit zum kauen.
+Status.Full=ist voll.
+Status.Nervous.Head=Du hast den kleinen
+Status.Nervous=zu nervös gemacht um selber zu jagen.
+Status.GemErrorYoung= ist noch zu jung.
+Status.GemErrorHealth=Der Skarabäus ist nicht in der Lage so viel Lebenskraft zu bändigen.
+########## Name of the dino, only 11 digits
+Dino.Triceratops=Triceratops
+Dino.Velociraptor=Velociraptor
+Dino.TRex=Tyrannosaur
+Dino.Pterosaur=Pteranodon
+Dino.Plesiosaur=Plesiosaurus
+Dino.Mosasaurus=Mosasaurus
+Dino.Stegosaurus=Stegosaurus
+Dino.Dilophosaurus=Dilophosaurus
+Dino.Brachiosaurus=Brachiosaurus
+Dino.Nautilus=Nautilus
+##########Names of the Animals
+Animal.Mammoth=Mammut
+Animal.SaberCat=Smilodon
+##########General Dino Messages, Only 11 Digits
+PediaText.Owner=Besitzer:
+PediaText.EnableChest=* Kann Truhen öffnen
+PediaText.Caution=!!!Gefährlich!!!
+PediaText.Rideable=* Reitbar
+PediaText.Weak=fast tot
+PediaText.Fly=* kann fliegen
+##########Dino Egg Messages, Only 11 Digits
+PediaText.egg.Head=Ei von einem 
+PediaText.egg.wet=Nass
+PediaText.egg.dry=Trocken
+PediaText.egg.warm=Warm
+PediaText.egg.cold=Kalt
+PediaText.egg.Status=Status:
+PediaText.egg.Progress=Fortschritt:
+PediaText.Day=Tag
+PediaText.Days=Tage
+##########Embryo Messages, only 11 Digits
+PediaText.Embryo.inside=Embryo in:
+PediaText.Embryo.growing=Progress:
+PediaText.Embryo.Pig=Pig
+PediaText.Embryo.Sheep=Sheep
+PediaText.Embryo.Cow=Cow
+PediaText.Embryo.Chicken=Chicken
+PediaText.Embryo.SaberCat=Smilodon
+PediaText.Embryo.Mammoth=Mammoth
+#
+AnuSpeaker.self=Anu:
+AnuSpeaker.Hello=Knie nieder, Widerstand ist zwecklos!
+AnuSpeaker.BareHand=Mit blosen Händen..Mutig.
+AnuSpeaker.Draw=ZIEH DEIN SCHWERT, Kind.
+AnuSpeaker.Coward=Bow-Bogenschießender Feigling! Hör auf dich zu verstecken!
+AnuSpeaker.LeartHere=Schau was ich hier gelernt habe!
+AnuSpeaker.LeartThere=Schau was ich dort gelernt habe!
+AnuSpeaker.UnknownRanged=Das ist also deine Waffe
+AnuSpeaker.UnknownMelee=Ha! Hör auf zu spielen!
+AnuSpeaker.summon=Arbeitet für mich, meine Sklaven.
+AnuSpeaker.Trans=Unmenschen, erwacht in Weisheit!
+AnuSpeaker.Qi=Qi-shock!
+AnuSpeaker.FireRain=Lass Feuer vom Himmel regnen!
+#
+FPZSpeaker.self=Schweinezombies:
+FPZSpeaker.SelfKill=Wir können nicht ohne unseren Führer leben!
+FPZSpeaker.LifeFor.head=Mein Leben für 
+FPZSpeaker.LifeFor.tail=!!
+FPZSpeaker.AnuSommon=Seid gegrüßt Anu!
+########## Dinoegg.Head Dinoname(automatically) Dinoegg.x
+Dinoegg.Head=Das Ei eines 
+Dinoegg.dry=starb wegen Trockenheit.
+Dinoegg.cold=starb an Unterkühlung.
+########## Dinoegg.x
+Dinoegg.Hatched=Ein Dinosaurier ist geschlüpft!
+Dinoegg.NoSpace=Das Ei kann hier nicht abgelegt werden.
+########## A failure in dna cultivating
+Cultivate.OutBreak=Warnung!! Züchtung fehlgeschlagen!!
+##########Order Drum Messages
+Drum.Trigger=Trommelkommando:
+Drum.Ordering=Ordne
+Drum.Msg.TRex.1=Befehle den Tyrannosauriern in 50 Radius zum Frühstück zu kommen.
+Drum.Msg.TRex.2=Befehle den Tyrannosauriern in 50 Radius zum Mittagessen zu kommen.
+Drum.Msg.TRex.3=Befehle den Tyrannosauriern in 50 Radius zum Abendbrot zu kommen.ULAAAAAAAAAAAAAAA

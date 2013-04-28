@@ -1,0 +1,232 @@
+﻿##########Names of the Tabs
+Tab.Armor.Name=Armadura Prehistórica
+Tab.Blocks.Name=Bloques Prehistóricos
+Tab.Combat.Name=Armas Prehistóricas
+Tab.Food.Name=Comida Prehistórica
+Tab.Items.Name=Objetos Prehistóricos
+Tab.Material.Name=Materiales Prehistóricos
+Tab.Tools.Name=Herramientas Prehistóricas
+##########Names of all new Blocks
+Block.Fossil.Name=Fósil
+Block.Skull.Name=Calavera
+Block.SkullLantern.Name=LinternaCalavera
+Block.Analyzer.Name=Analizador
+Block.CultureVat.Name=Tinaja Cultural
+Block.Workbench.Name=Mesa de Trabajo Arqueológica
+Block.Drum.Name=Tambor de Órdenes
+Block.Feeder.Name=Comedero
+Block.Permafrost.Name=Permahielo
+Block.IcedStone.Name=RocaCongelada
+Block.TimeMachine.Name=Máquina del Tiempo
+Block.Tar.Name=Alquitrán
+Block.PalLog.Name=Tronco Palaeoraphe
+Block.PalLeaves.Name=Hojas Palaeoraphe
+Block.PalSap.Name=Arbusto Palaeoraphe
+Block.PalPlank.Name=Tablones Palaeoraphe
+##########Names of all new Items
+Item.BioFossil.Name=Bio-Fósil
+Item.Relic.Name=Trozos de Reliquias
+Item.Tablet.Name=Loseta de Piedra
+Item.BrokenSword.Name=Espada Prehistórica Rota
+Item.AncientSword.Name=Espada Prehistórica
+Item.FernSeeds.Name=Semillas de Helecho
+Item.BrokenHelmet.Name=Casco Prehistórico Roto
+Item.AncientHelmet.Name=Casco Prehistórico
+Item.SkullStick.Name=Báculo Calavera
+Item.Gem.Name=Gema Escarabajo
+Item.ScarabAxe.Name=Hacha Escarabajo
+Item.ScarabPickAxe.Name=Pico Escarabajo
+Item.ScarabSword.Name=Espada Escarabajo
+Item.ScarabHoe.Name=Azada Escarabajo
+Item.ScarabShovel.Name=Pala Escarabajo
+Item.DinoPedia.Name=DinoPedia
+Item.Tooth.Name=Diente de T-Rex
+Item.Dagger.Name=Daga de Diente
+Item.RawChickenSoup.Name=Sopa de Pollo Crudo
+Item.CookedChickenSoup.Name=Sopa de Pollo Cocinado
+Item.EOC.Name=Esencia de Pollo
+Item.Shell.Name=Cascarón Vacio
+Item.SJL.Name=Sio-Chiu-Le
+Item.IcedMeat.Name=Carne Congelada
+Item.WoodJavelin.Name=Javalina de Madera
+Item.StoneJavelin.Name=Javalina de Piedra
+Item.IronJavelin.Name=Javalina de Piedra
+Item.GoldJavelin.Name=Javalina de Oro
+Item.DiamondJavelin.Name=Javalina de Diamante
+Item.AncientJavelin.Name=Javalina Prehistórica
+Item.Whip.Name=Látigo
+Item.MagicConch.Name=Caracol Mágico
+Item.LegBone.Name=Hueso de Pata
+Item.Claw.Name=Garra
+Item.Foot.Name=Pie
+Item.Skull.Name=Calavera
+Item.BrokenSapling.Name=Planta Fósil
+Item.SkullHelmet.Name=Casco Calavera
+Item.RibCage.Name=Peto de Costillas
+Item.Femurs.Name=Pantalones de Espinilla
+Item.Feet.Name=Botas de Hueso
+##########Dino Meat Names
+Item.DinoSteak.Name=Bistec de Dino
+Item.rawTriceratops.Name=Carne de Triceratops
+Item.rawVelociraptor.Name=Carne de Velociraptor
+Item.rawTRex.Name=Carne de TRex
+Item.rawPterosaur.Name=Carne de Pterosauro
+Item.rawNautilus.Name=Carne de Nautilo
+Item.rawPlesiosaur.Name=Carne de Plesiosauro
+Item.rawMosasaurus.Name=Carne de Mosasaurio
+Item.rawStegosaurus.Name=Carne de Estegosaurio
+Item.rawDilophosaurus.Name=Carne de Dilofosaurio
+Item.rawBrachiosaurus.Name=Braquiosaurio
+##########Dino Egg Names
+Item.eggTriceratops.Name=Huevo deTriceratops
+Item.eggVelociraptor.Name=Huevo de Velociraptor
+Item.eggTRex.Name=Huevo de TRex
+Item.eggPterosaur.Name=Huevo de Pterosaurio
+Item.shellNautilus.Name=Nautilo Vivo
+Item.eggPlesiosaur.Name=Huevo de Plesiosaurio
+Item.eggMosasaurus.Name=Huevo de Mosasaurio
+Item.eggStegosaurus.Name=Huevo de Estegosaurio
+Item.eggDilophosaurus.Name=Huevo de Dilofosaurio
+Item.eggBrachiosaurus.Name=Huevo de Braquiosaurio
+##########Dino DNA Names
+Item.dnaTriceratops.Name=ADN de Triceratops
+Item.dnaVelociraptor.Name=ADN de Velociraptor
+Item.dnaTRex.Name=ADN de TRex 
+Item.dnaPterosaur.Name=ADN de Pterosaurio
+Item.dnaNautilus.Name=ADN de Nautilo
+Item.dnaPlesiosaur.Name=ADN de Plesiosaurio
+Item.dnaMosasaurus.Name=ADN de Mosasaurio
+Item.dnaStegosaurus.Name=ADN de Estegosaurio
+Item.dnaDilophosaurus.Name=ADN de Dilofosaurio
+Item.dnaBrachiosaurus.Name=ADN de Braquiosaurio
+##########Other DNA
+Item.dnaPig.Name=ADN de Cerdo
+Item.dnaSheep.Name=ADN de Oveja
+Item.dnaCow.Name=ADN de Vaca
+Item.dnaChicken.Name=ADN de Pollo
+Item.dnaSaberCat.Name=ADN de Dientes de Sable
+Item.dnaMammoth.Name=ADN de Mamut
+##########Other Embryo
+Item.embryoPig.Name=Embrión de Cerdo
+Item.embryoSheep.Name=Embrión de Oveja
+Item.embryoCow.Name=Embrión de Vaca
+Item.embryoChicken.Name=Embrión de Pollo
+Item.embryoSaberCat.Name=Embrión de Dientes de Sable
+Item.embryoMammoth.Name=Embrión de Mamut
+#
+DNAName.Head=ADN de
+DNAName.Tail=
+#
+EmbyoName.Head=Embrión de 
+EmbyoName.Tail=
+#
+MeatName.Head=Carne de
+MeatName.Tail=
+#
+MGCName.Head=Caracol Mágico:
+MGCName.Tail=
+#
+DEggName.Head=Huevo de
+DEggName.Tail=
+#
+Achieve.PigBossOnEarth.Name=Rompiendo las Normas!!
+Achieve.PigBossOnEarth.Desc=Invocando Anu a la Tierra.
+##########Order.Head Order.x
+Order.Head=Orden:
+Order.Stay=Espera
+Order.Follow=Sigue
+Order.FreeMove=Movimiento Libre
+##########Status.x.Head DinoName Status.x
+Status.Hungry.Head=Esto
+Status.Hungry=Hambriento
+Status.Starve.Head=A
+Status.Starve=Murió de Hambre.
+Status.LearningChest.Head=A
+Status.LearningChest=ha aprendido a usar los cofres.
+Status.Betrayed.Head=Esto
+Status.Betrayed=No creerá en los Humanos nunca más.
+Status.NoSpace.Head=Esto
+Status.NoSpace=No tiene suficiente espacio para crecer.
+Status.StarveEsc=ha escapado por causa del hambre.
+Status.SJLBite=muerde el Siu-Jiu-Le y sale corriendo.
+Status.ChewTime=necesita tiempo para masticar.
+Status.Full=esta lleno.
+Status.Nervous.Head=Hiciste lo mínimo
+Status.Nervous=demasiado nervioso para cazarse a sí mismo.
+Status.GemErrorYoung=El TRex todavía es demasiado joven.
+Status.GemErrorHealth=El scrab no puede permitirse una energía vital tan fuerte.
+########## Name of the dino, only 11 digits
+Dino.Triceratops=Triceratops
+Dino.Velociraptor=Velociraptor
+Dino.TRex=T-Rex
+Dino.Pterosaur=Pterosaurio
+Dino.Plesiosaur=Plesiosaurio
+Dino.Mosasaurus=Mosasaurio
+Dino.Stegosaurus=Stegosaurio
+Dino.Dilophosaurus=Dilophosaurio
+Dino.Brachiosaurus=Braquiosaurio
+Dino.Nautilus=Nautilo
+##########Names of the Animals
+Animal.Mammoth=Mamut
+Animal.SaberCat=Dientes de Sable
+##########General Dino Messages, Only 11 Digits
+PediaText.Owner=Amo:
+PediaText.Chest=* Cofres
+PediaText.Caution=!!!Peligroso!!!
+PediaText.Rideable=* Montable
+PediaText.Weak=Casi Muerto
+PediaText.Fly=* Puede Volar
+##########Dino Egg Messages, Only 11 Digits
+PediaText.egg.Head=Huevo de
+PediaText.egg.wet=Humedo
+PediaText.egg.dry=Mojado
+PediaText.egg.warm=Caliente
+PediaText.egg.cold=Frio
+PediaText.egg.Status=Estatus:
+PediaText.egg.Progress=Empollando:
+PediaText.Day=Día
+PediaText.Days=Dias
+##########Embryo Messages, only 11 Digits
+PediaText.Embryo.inside=Embrión dentro:
+PediaText.Embryo.growing=Progreso:
+PediaText.Embryo.Pig=Cerdo
+PediaText.Embryo.Sheep=Oveja
+PediaText.Embryo.Cow=Vaca
+PediaText.Embryo.Chicken=Pollo
+PediaText.Embryo.SaberCat=Smilodon
+PediaText.Embryo.Mammoth=Mamut
+#
+AnuSpeaker.self=Anu:
+AnuSpeaker.Hello=Arrodillado, resistencia inútil.
+AnuSpeaker.BareHand=Manos desnudas...Valiente
+AnuSpeaker.Draw=DESENFUNDA TU ESPADA,Chaval.
+AnuSpeaker.Coward=Arquero cobarde!No te escondas!
+AnuSpeaker.LeartHere=Mira lo que he aprendido de aquí!
+AnuSpeaker.LeartThere=mira lo que he aprendido de allí!
+AnuSpeaker.UnknownRanged=...esa es tu arma?
+AnuSpeaker.UnknownMelee=Ja!Para de jugar!
+AnuSpeaker.summon=Trabajad para mi,mis sirvientes.
+AnuSpeaker.Trans=Brutos,despertad vuestra sabiduría.
+AnuSpeaker.Qi=Qi-shock!
+AnuSpeaker.FireRain=Que llueva un poco de fuego!
+#
+FPZSpeaker.self=Cerdos Zombie:
+FPZSpeaker.SelfKill=No podemos vivir sin amo!
+FPZSpeaker.LifeFor.head=My Vida por
+FPZSpeaker.LifeFor.tail=!!
+FPZSpeaker.AnuSommon=Salve Anu!!
+########## Dinoegg.Head Dinoname(automatically) Dinoegg.x
+Dinoegg.Head=Un huevo de
+Dinoegg.dry= murió por desecamiento.
+Dinoegg.cold= murió por congelación.
+########## Dinoegg.x
+Dinoegg.Hatched=Un huevo de dino ha eclosionado!
+Dinoegg.NoSpace=Este huevo no puede desovar aqui.
+########## A failure in dna cultivating
+Cultivate.OutBreak=Alerta! Cultivo Fallido!
+##########Order Drum Messages
+Drum.Trigger=Orden de Tambor:
+Drum.Ordering=Ordenar 
+Drum.TRex1=Ordenar a los T-Rex que se coman el desayuno.
+Drum.TRex2=Ordenar a los T-Rex que vengan a comer.
+Drum.TRex3=Ordenar a los T-Rex que vengan a cenar.

@@ -1,0 +1,232 @@
+﻿##########Names of the Tabs
+ Tab.Armor.Name=Antieke Wapenuitrusting
+ Tab.Blocks.Name=Antieke Blokken
+ Tab.Combat.Name=Antieke Wapens
+ Tab.Food.Name=Antiek Voedsel
+ Tab.Items.Name=Antieke Items
+ Tab.Material.Name=Antieke Materialen
+ Tab.Tools.Name=Antieke Gereedschappen
+ ##########Names of all new Blocks
+ Block.Fossil.Name=Fossiel
+ Block.Skull.Name=Schedel
+ Block.SkullLantern.Name=Schedellantaarn
+ Block.Analyzer.Name=Analyst
+ Block.CultureVat.Name=Kweekvat
+ Block.Workbench.Name=Archeologische Werktafel
+ Block.Drum.Name=Beveltrommel
+ Block.Feeder.Name=Voeder
+ Block.Permafrost.Name=Permafrost
+ Block.IcedStone.Name=Bevroren steen
+ Block.TimeMachine.Name=Tijdmachine
+ Block.Tar.Name=Teer
+ Block.PalLog.Name=Palaeoraphe Stam
+ Block.PalLeaves.Name=Palaeoraphe Bladeren
+ Block.PalSap.Name=Palaeoraphe Stek
+ Block.PalPlank.Name=Palaeoraphe Planken
+ ##########Names of all new Items
+ Item.BioFossil.Name=Bio-Fossiel
+ Item.Relic.Name=Gebroken Reliek
+ Item.Tablet.Name=Stenen Tablet
+ Item.BrokenSword.Name=Gebroken Antiek Zwaard
+ Item.AncientSword.Name=Antiek Zwaard
+ Item.FernSeeds.Name=Varenzaden
+ Item.BrokenHelmet.Name=Gebroken Antieke Helm
+ Item.AncientHelmet.Name=Antieke Helm
+ Item.SkullStick.Name=Schedelstaf
+ Item.Gem.Name=Scarabenjuweel
+ Item.ScarabAxe.Name=Scarabenbijl
+ Item.ScarabPickAxe.Name=Scarabenhouweel
+ Item.ScarabSword.Name=Scarabenzwaard
+ Item.ScarabHoe.Name=Scarabenschoffel
+ Item.ScarabShovel.Name=Scarabenspade
+ Item.DinoPedia.Name=DinoPedia
+ Item.Tooth.Name=T-Rex Tand
+ Item.Dagger.Name=Tanddolk
+ Item.RawChickenSoup.Name=Rauwe Kippensoep
+ Item.CookedChickenSoup.Name=Gekookte Kippensoep
+ Item.EOC.Name=Kippenelixir
+ Item.Shell.Name=Lege Schelp
+ Item.SJL.Name=Sio-Jiu-Le
+ Item.IcedMeat.Name=Bevroren Vlees
+ Item.WoodJavelin.Name=Houten Speer
+ Item.StoneJavelin.Name=Stenen Speer
+ Item.IronJavelin.Name=Ijzeren Speer
+ Item.GoldJavelin.Name=Gouden Speer
+ Item.DiamondJavelin.Name=Diamanten Speer
+ Item.AncientJavelin.Name=Antieke Speer
+ Item.Whip.Name=Zweep
+ Item.MagicConch.Name=Magische Schelp
+ Item.LegBone.Name=Ledemaat Been
+ Item.Claw.Name=Klauw
+ Item.Foot.Name=Voet
+ Item.Skull.Name=Schedel
+ Item.BrokenSapling.Name=Plantfossiel
+ Item.SkullHelmet.Name=Schedelhelm
+ Item.RibCage.Name=Ribbenkast
+ Item.Femurs.Name=Scheenbeschermers
+ Item.Feet.Name=Voeten
+ ##########Dino Meat Names
+ Item.DinoSteak.Name=Dinogehakt
+ Item.rawTriceratops.Name=Triceratops Vlees
+ Item.rawVelociraptor.Name=Velociraptor Vlees
+ Item.rawTRex.Name=T-Rex Vlees
+ Item.rawPterosaur.Name=Pterosaur Vlees
+ Item.rawNautilus.Name=Nautilus Vlees 
+ Item.rawPlesiosaur.Name=Plesiosaur Vlees
+ Item.rawMosasaurus.Name=Mosasaurus Vlees
+ Item.rawStegosaurus.Name=Stegosaurus Vlees
+ Item.rawDilophosaurus.Name=Dilophosaurus Vlees
+ Item.rawBrachiosaurus.Name=Brachiosaurus Vlees
+ ##########Dino Egg Names
+ Item.eggTriceratops.Name=Triceratops Ei
+ Item.eggVelociraptor.Name=Velociraptor Ei
+ Item.eggTRex.Name=T-Rex Ei
+ Item.eggPterosaur.Name=Pterosaur Ei
+ Item.shellNautilus.Name=Levende Nautilus
+ Item.eggPlesiosaur.Name=Plesiosaur Ei
+ Item.eggMosasaurus.Name=Mosasaurus Ei
+ Item.eggStegosaurus.Name=Stegosaurus Ei
+ Item.eggDilophosaurus.Name=Dilophosaurus Ei
+ Item.eggBrachiosaurus.Name=Brachiosaurus Ei
+ ##########Dino DNA Names
+ Item.dnaTriceratops.Name=Triceratops DNA
+ Item.dnaVelociraptor.Name=Velociraptor DNA
+ Item.dnaTRex.Name=T-Rex DNA
+ Item.dnaPterosaur.Name=Pterosaur DNA
+ Item.dnaNautilus.Name=Nautilus DNA
+ Item.dnaPlesiosaur.Name=Plesiosaur DNA
+ Item.dnaMosasaurus.Name=Mosasaurus DNA
+ Item.dnaStegosaurus.Name=Stegosaurus DNA
+ Item.dnaDilophosaurus.Name=Dilophosaurus DNA
+ Item.dnaBrachiosaurus.Name=Brachiosaurus DNA
+ ##########Other DNA
+ Item.dnaPig.Name=Varkens-DNA
+ Item.dnaSheep.Name=Schapen-DNA
+ Item.dnaCow.Name=Koeien-DNA
+ Item.dnaChicken.Name=Kippen-DNA
+ Item.dnaSaberCat.Name=Sabeltandtijger-DNA
+ Item.dnaMammoth.Name=Mammoet-DNA
+ ##########Other Embryo
+ Item.embryoPig.Name=Varken Embryo
+ Item.embryoSheep.Name=Schaap Embryo
+ Item.embryoCow.Name=Koe Embryo
+ Item.embryoChicken.Name=Kip Embryo
+ Item.embryoSaberCat.Name=Sabeltandtijger Embryo
+ Item.embryoMammoth.Name=Mammoet Embryo
+ #
+ DNAName.Head=DNA van 
+ DNAName.Tail=
+ # 
+ EmbyoName.Head=Embryo van
+ EmbyoName.Tail=
+ #
+ MeatName.Head=Meat van 
+ MeatName.Tail=
+ #
+ MGCName.Head=Magische Schelp:
+ MGCName.Tail=
+ #
+ DEggName.Head=Ei van 
+ DEggName.Tail=
+ #
+ Achieve.PigBossOnEarth.Name=Je overtrad de regel!
+ Achieve.PigBossOnEarth.Desc=Anu op Aarde ontbieden
+ ##########Order.Head Order.x
+ Order.Head=Bevel: 
+ Order.Stay=Blijf
+ Order.Follow=Volg 
+ Order.FreeMove=Vrij Bewegen
+ ##########Status.x.Head DinoName Status.x
+ Status.Hungry.Head=Deze
+ Status.Hungry=is hongerig.
+ Status.Starve.Head=Een
+ Status.Starve=is uitgehongerd en stierf.
+ Status.LearningChest.Head=Een
+ Status.LearningChest=heeft geleerd hoe kisten te gebruiken.
+Status.Betrayed.Head= Deze
+ Status.Betrayed=zal geen mensen meer vertrouwen.
+ Status.NoSpace.Head=Deze
+ Status.NoSpace=heeft niet genoeg plaats om op te groeien.
+ Status.StarveEsc=is ontsnapt wegens uithongering.
+ Status.SJLBite=greep de Sio-Jiu-Le en vluchtte.
+ Status.ChewTime=heeft tijd nodig om te kauwen.
+ Status.Full=is voldaan.
+ Status.Nervous.Head=Je hebt de kleine
+ Status.Nervous=te nerveus gemaakt om zelf te jagen.
+ Status.GemErrorYoung=T-Rex is nog te jong.
+ Status.GemErrorHealth=De Scarabee kan zulke grote levensenergie niet aan.
+ ########## Name of the dino, only 11 digits 
+ Dino.Triceratops=Triceratops
+ Dino.Velociraptor=Velociraptor
+ Dino.TRex=T-Rex
+ Dino.Pterosaur=Pterosaurus
+ Dino.Plesiosaur=Plesosaurus
+ Dino.Mosasaurus=Mosasaurus
+ Dino.Stegosaurus=Stegosaurus
+ Dino.Dilophosaurus=Dilophosaurus
+ Dino.Brachiosaurus=Brachiosaurus
+ Dino.Nautilus=Nautilus
+ ##########Names of the Animals
+ Animal.Mammoth=Mammoet
+ Animal.SaberCat=Smilodon 
+ ##########General Dino Messages, Only 11 Digits
+ PediaText.Owner=Eigenaar:
+ PediaText.Chest=* Kisten
+ PediaText.Caution=!!!Gevaarlijk!!!
+ PediaText.Rideable=* Berijdbaar
+ PediaText.Weak=Bijna Dood
+ PediaText.Fly=* Kan Vliegen
+ ##########Dino Egg Messages, Only 11 Digits
+ PediaText.egg.Head=Ei van 
+ PediaText.egg.wet=Nat 
+ PediaText.egg.dry=Droog
+ PediaText.egg.warm=Warm
+ PediaText.egg.cold=Koud
+ PediaText.egg.Status=Status:
+ PediaText.egg.Progress=Broedend:
+ PediaText.Day=Dag
+ PediaText.Days=Dagen
+ ##########Embryo Messages, only 11 Digits
+ PediaText.Embryo.inside=Embryo in:
+ PediaText.Embryo.growing=Vooruitgang:
+ PediaText.Embryo.Pig=Varken
+ PediaText.Embryo.Sheep=Schaap
+PediaText.Embryo.Cow=Koe
+ PediaText.Embryo.Chicken=Kip
+ PediaText.Embryo.SaberCat=Smilodon
+ PediaText.Embryo.Mammoth=Mammoet
+ #
+ AnuSpeaker.self=Anu:
+ AnuSpeaker.Hello=Kniel. Verzet is nutteloos. 
+ AnuSpeaker.BareHand=Met blote handen...Dapper
+ AnuSpeaker.Draw=TREK JE ZWAARD, kind.
+ AnuSpeaker.Coward=Boogschietende lafaard! Toon jezelf!
+ AnuSpeaker.LeartHere=Kijk wat ik hier heb geleerd!
+ AnuSpeaker.LeartThere=Kijk wat ik daar heb geleerd!
+ AnuSpeaker.UnknownRanged=Dus dat is je wapen!
+ AnuSpeaker.UnknownMelee=Ha! Stop met spelen!
+ AnuSpeaker.summon=Werk voor mij, mijn dienaars!
+ AnuSpeaker.Trans=Bruten, ontwaak jullie wijsheid.
+ AnuSpeaker.Qi=Qi-schok!
+ AnuSpeaker.FireRain=Laat het vuur neerdalen!
+ #
+ FPZSpeaker.self=Varkenzombies:
+ FPZSpeaker.SelfKill=We kunnen niet zonder leider leven!
+ FPZSpeaker.LifeFor.head=Mijn leven voor
+ FPZSpeaker.LifeFor.tail=!!
+ FPZSpeaker.AnuSommon=Allen, aanbid Anu!!
+ ########## Dinoegg.Head Dinoname(automatically) Dinoegg.x
+ Dinoegg.Head=Een Ei van 
+ Dinoegg.dry= stierf omdat het te droog was.
+ Dinoegg.cold= stierf omdat het te koud was.
+ ########## Dinoegg.x
+ Dinoegg.Hatched=Een dinosaurusei is uitgekomen!
+ Dinoegg.NoSpace=Dit ei kan hier niet verschijnen.
+ ########## A failure in dna cultivating
+ Cultivate.OutBreak=Opgepast! Cultiveren is mislukt!
+ ##########Order Drum Messages
+ Drum.Trigger=Trommelbevel:
+ Drum.Ordering=Bevelen:
+ Drum.TRex1=Beveel T-Rexen om te komen ontbijten.
+ Drum.TRex2=Beveel T-Rexen om naar het middageten te komen.
+ Drum.TRex3=Beveel T-Rexen om naar het avondeten te komen.
